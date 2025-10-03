@@ -1,0 +1,11 @@
+NAMA:RUHAIDA AZZAHRA
+NIM :25106050102
+
+FIGMA ADALAH: aplikasi desain UI atau UX berbasis vektor yang berjalan di browser dan juga ada versi desktop. 1 berbasis cloud semua kerjaan desain auto save di server dan bisa diakses di mana saja sebelum ada internet. 2 keunggulannya adalah berkolaborasi real-time. 3 ada fitur prototyping yang bisa membuat tampilan antarmuka atau desain jadi interaktif 
+figma di industri desain dan teknologi adalah salah satu tools paling populer saat ini untuk desain UI atau UX terutama di perusahaan teknologi startup 
+
+user interface atau UI mengedepankan tampilan sedangkan user experience mengedepankan pengalaman atau perasaan pengguna 
+
+prinsip dasar UI desain yaitu kontras alignment repetition proximity 
+
+prinsip dasar UX emphasis color white space typografi
